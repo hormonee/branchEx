@@ -1,3 +1,5 @@
 Project start
 
 Written by Hong
+
+Mr. Lee add some method
