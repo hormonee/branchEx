@@ -2,4 +2,4 @@ Project start
 
 Written by Hong
 
-Mr. Lee add some method
+Mr. Lee add some methodes
